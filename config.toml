@@ -1,0 +1,14 @@
+theme = "startbootstrap-sbadmin" 
+baseurl = "" 
+contentdir = "content" 
+layoutdir = "layouts" 
+publishdir = "public" 
+canonifyurls = true 
+languageCode = "en-us" 
+title = "your title here" 
+MetaDataFormat = "toml" 
+[indexes] 
+    category = "categories" 
+    tag = "tags" 
+[author] 
+    name = "your name here" 
