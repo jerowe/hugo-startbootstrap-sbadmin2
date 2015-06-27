@@ -1,14 +1,14 @@
-theme = "startbootstrap-sbadmin" 
-baseurl = "" 
-contentdir = "content" 
-layoutdir = "layouts" 
-publishdir = "public" 
-canonifyurls = true 
-languageCode = "en-us" 
-title = "your title here" 
-MetaDataFormat = "toml" 
-[indexes] 
-    category = "categories" 
-    tag = "tags" 
-[author] 
-    name = "your name here" 
+theme = "startbootstrap-sbadmin"
+baseurl = ""
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+languageCode = "en-us"
+title = "Start Bootstrap SB Admin 2 Theme for Hugo"
+MetaDataFormat = "toml"
+[indexes]
+    category = "categories"
+    tag = "tags"
+[author]
+    name = "Jillian Rowe"
